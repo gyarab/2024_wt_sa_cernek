@@ -37,4 +37,4 @@ měla zásadní vliv na vývoj moderní výpočetní techniky a na způsob, jak�
 Více o životě a práci Douglase Engelbarta se můžete dozvědět  
 [na jeho oficiální stránce](https://www.dougengelbart.org).
 
-![Douglas Engelbart](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Douglas_Engelbart_in_2008.jpg/1200px-Douglas_Engelbart_in_2008.jpg)
+![Douglas Engelbart](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/330px-Douglas_Engelbart_in_2008.jpg)
