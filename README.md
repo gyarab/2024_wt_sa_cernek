@@ -37,4 +37,4 @@ kterou mu udělil prezident USA. I přes to, že nebyl tak slavný jako jiní te
 měla zásadní vliv na vývoj moderní výpočetní techniky a na způsob, jakým dnes komunikujeme a pracujeme s informacemi.
 
 Více o životě a práci Douglase Engelbarta se můžete dozvědět  
-[na jeho oficiální stránce](https://www.dougengelbart.org).
+[na jeho wiki](https://en.wikipedia.org/wiki/Douglas_Engelbart).
