@@ -1,5 +1,7 @@
 # Douglas Engelbart
 
+![Douglas Engelbart](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/330px-Douglas_Engelbart_in_2008.jpg)
+
 Douglas Engelbart (1925–2013) byl americký inženýr, vynálezce a průkopník v oblasti výpočetní techniky.  
 Nejvíce je známý jako **vynálezce počítačové myši** a jeden z prvních vizionářů, kteří si uvědomili potenciál moderní technologie  
 pro spolupráci a rozšiřování lidských schopností. Jeho vize a práce přispěly k rozvoji počítačů, jak je dnes známe,  
@@ -36,5 +38,3 @@ měla zásadní vliv na vývoj moderní výpočetní techniky a na způsob, jak�
 
 Více o životě a práci Douglase Engelbarta se můžete dozvědět  
 [na jeho oficiální stránce](https://www.dougengelbart.org).
-
-![Douglas Engelbart](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/330px-Douglas_Engelbart_in_2008.jpg)
