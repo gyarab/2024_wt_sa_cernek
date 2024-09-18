@@ -1,6 +1,7 @@
 # Douglas Engelbart
 
 ![Douglas Engelbart](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/330px-Douglas_Engelbart_in_2008.jpg)
+
 (obrázek z wikipedia.com)
 
 Douglas Engelbart (1925–2013) byl americký inženýr, vynálezce a průkopník v oblasti výpočetní techniky.  
