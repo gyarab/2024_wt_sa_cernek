@@ -8,4 +8,4 @@ Logo IKEA je charakteristické kombinací modré a žluté barvy. Tato barevná 
 
 3. Modrá a žlutá jsou také barvy švédské vlajky, což posiluje identitu a spojení IKEA se Švédskem, čímž se zdůrazňuje její původ a tradiční hodnoty.
 
-![Logo IKEA](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ikea_logo.svg/800px-Ikea_logo.svg.png)
+![Logo IKEA](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/225px-Ikea_logo.svg.png)
