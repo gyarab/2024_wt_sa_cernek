@@ -38,7 +38,7 @@ function reset(){
         cisla[nahodna], cisla[aktualniPozice]]
     }
 
-    for(var i = 0; i < cisla.length; i++){
+    for(let i = 0; i < cisla.length; i++){
         let img = document.getElementById(i)
 
         if (img) {
@@ -54,7 +54,7 @@ function reset(){
 
 function hideAll(){
 
-    for(var img of imgs){
+    for(let img of imgs){
         img.src = "https://placehold.co/100x100"
     }
 
@@ -76,15 +76,12 @@ function imgClick(img){
         pocetClicku++
         img.src = obrazky[cisla[img.id]-1].src
         vybraneImgs.push(img)
-        img.onclick = null
+        disableClick(img)
     }
 
     if(pocetClicku === 2){
 
         if(vybraneImgs[0].src === vybraneImgs[1].src){
-            disableClick(vybraneImgs[0])
-            disableClick(vybraneImgs[1])
-
             imgs = imgs.filter(img => img.id != vybraneImgs[0].id)
             imgs = imgs.filter(img => img.id != vybraneImgs[1].id)
 
@@ -105,7 +102,7 @@ function imgClick(img){
 }
 
 function createImageGrid() {
-    const container = document.getElementById("image-container")
+    let container = document.getElementById("image-container")
     container.innerHTML = ""
 
     for (let i = 0; i < cisla.length; i++) {
@@ -115,12 +112,12 @@ function createImageGrid() {
             container.appendChild(row)
         }
 
-        const col = document.createElement("div")
-        col.className = "col-md-2 mt-5"
+        let col = document.createElement("div")
+        col.className = "col-4 col-xl-2 mt-5"
 
-        const img = document.createElement("img")
+        let img = document.createElement("img")
         img.id = i
-        img.className = "button"
+        img.className = "button w-100"
         img.src = "https://placehold.co/100x100"
         img.alt = `Image ` + i
         img.style.height = "100px"
